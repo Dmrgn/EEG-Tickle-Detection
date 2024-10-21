@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tensorflow/tfjs": "^4.21.0",
+    "@tensorflow/tfjs-converter": "^4.21.0",
     "fft.js": "^4.0.4",
     "heatmap.js": "^2.0.5",
     "plotly.js-dist": "^2.35.2",
