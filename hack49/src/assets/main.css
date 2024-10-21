@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-[#313338] text-gray-300;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+    @apply bg-[#A1A3AD] rounded-xl;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    @apply bg-[#81838D];
+}
